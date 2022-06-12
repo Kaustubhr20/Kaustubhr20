@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaustubhr20&label=Profile%20views&color=0e75b6&style=flat" alt="kaustubhr20" /> </p>
 
-- 🔭 I’m currently working in **TCS as a Systems Engineer**
+- 🔭 I’m currently working in **TCS**
 
 - 🌱 I’m currently learning **React**
 

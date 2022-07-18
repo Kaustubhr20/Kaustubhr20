@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working in **TCS**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **MERN Stack Development**
 
 - 👯 I’m looking to get a job **in Web Development in a great organization**
 
